@@ -1,6 +1,5 @@
 <img src="assets/thredup-logo2.png" height="30" alt="ThredUp" />
 <br>
-<br>
 
 # Hi, I'm Joe Waugh
 
