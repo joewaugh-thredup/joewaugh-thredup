@@ -44,16 +44,6 @@ I build ML systems at scale — computer vision, NLP/LLMs, and the infrastructur
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joewaugh-thredup&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewaugh-thredup&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### Contribution Snake
 
 <picture>
